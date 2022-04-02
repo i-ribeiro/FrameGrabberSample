@@ -1,25 +1,24 @@
 # FrameGrabberSample
-Frame Grabber機能を使って、レンダリング結果（フレームバッファ）をテクスチャ化するサンプルです  
+Frame Grabber  
 Sample to convert rendering result to texture using FrameGrabber function of Unreal Engine 4 
-![ScreenShot0](https://github.com/pafuhana1213/Screenshot/blob/master/20180827000404.png "")  
+![ScreenShot0](https://github.com/pafuhana1213/Screenshot/blob/master/20180827000404.png "")
 
-## UE4 Version( v0.1 )
-4.20.2  
-(Sourceフォルダ以下を移植すれば、昔のバージョンでも動くはずです)  
-(If you port below the Source folder, it should work even in the old version...Maybe)
+## UE4 Version( v0.2 )
+4.27
 
-## Support( v0.1 )
+## Support( v0.2 )
 Windows
 
-## How to use
-プロジェクトを開いて1キーを押すとFrameGrabberを使ったテクスチャ化が開始します。  
-詳細はBP_FrameGrabberActorや、FrameGrabberActor.cpp / hをご確認ください。
+## How to use 
+BP_FrameGrabberActor, FrameGrabberActor.cpp
 
-When you open the project and press 1 key, FrameGrabber will start.   
+When you open the project, FrameGrabber will start.
 For details, please check BP_FrameGrabberActor and FrameGrabberActor.cpp / h.
 
 ## Author
 [@pafuhana1213](https://twitter.com/pafuhana1213)
+
+[@i-ribeiro](http://github.com/i-ribeiro/)
 
 ## License
 [MIT](https://github.com/pafuhana1213/FrameGrabberSample/blob/master/LICENSE)
