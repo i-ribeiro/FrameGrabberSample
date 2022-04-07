@@ -5,7 +5,6 @@
 #if WITH_EDITOR
 	#include "Editor.h"
 	#include "Editor/EditorEngine.h"
-	#include "ILevelViewport.h"
 	#include "IAssetViewport.h"
 #endif
 
